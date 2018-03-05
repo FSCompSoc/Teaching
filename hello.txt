@@ -1,2 +1,6 @@
 Hello, World!
+<<<<<<< HEAD
 hello darkness my old friend
+=======
+It's time to die.
+>>>>>>> 52cc3fb20e6c05c486306c5557c941c61dd7a9e1
